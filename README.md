@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Blue Team</b>
-  - [blank]
+  - [Nessus Vulnerability Scan](https://github.com/ChisomL/VulnerabilityScan)
 - <b>Red Team</b>
   - [blank]
 - <b>Bash</b>

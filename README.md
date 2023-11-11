@@ -5,12 +5,8 @@
 
 - <b>Blue Team</b>
   - [Nessus Vulnerability Scan](https://github.com/ChisomL/VulnerabilityScan)
-- <b>Red Team</b>
-  - [blank]
-- <b>Bash</b>
-  - [blank]
-- <b>Python</b>
-  - [blank]
+  - [Splunk Data Analysis](https://github.com/ChisomL/Centralized-Logging-Solution)
+  
 
 <h2>🎓 Certifications:</h2>
 
